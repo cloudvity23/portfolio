@@ -97,7 +97,7 @@ export const NavBar = () => {
                   <img src={navIcon2} alt="" />
                 </a>
                 <a
-                  href="https://drive.google.com/file/d/1aPoTmu8d8T7CUdQzIDMQcR-9SChPxW_z/view?usp=sharing"
+                  href="https://drive.google.com/file/d/11nFBGCC3zR3YHcLIs9B_8F3rG6falzkm/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
